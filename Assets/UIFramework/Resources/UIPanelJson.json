@@ -1,0 +1,25 @@
+{
+	"panelInfo":
+	[
+		{"panelTypeName":"Login",
+		"path":"UIPanelPrefabs/LoginPanel"},
+
+		{"panelTypeName":"Message",
+		"path":"UIPanelPrefabs/MessagePanel"},
+
+		{"panelTypeName":"Register",
+		"path":"UIPanelPrefabs/RegisterPanel"},
+
+		{"panelTypeName":"Start",
+		"path":"UIPanelPrefabs/StartPanel"},
+
+		{"panelTypeName":"RoomList",
+		"path":"UIPanelPrefabs/RoomListPanel"},
+
+		{"panelTypeName":"Room",
+		"path":"UIPanelPrefabs/RoomPanel"},
+
+		{"panelTypeName":"Game",
+		"path":"UIPanelPrefabs/GamePanel"}
+	]
+}
